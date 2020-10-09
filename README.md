@@ -5,7 +5,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pO6CaIFIdJ_4Rc4X3vpBxQdnXMm0zhJ5#scrollTo=s4TwJU-pVNC9)
 
 
-**Torrent_to_Drive** is the easiest way to do Cloud Torrenting. Using [Google Colab](https://colab.research.google.com) and [LibTorrent](https://libtorrent.org/python_binding.html) Module, the script can be used to Download any Torrent in a Google Drive using Google Cloud Server. The files can be saved anywhere on Drive.
+[**Torrent_to_Drive**](https://github.com/vybhav72954/Torrent_to_GoogleDrive/blob/master/Jupyter%20Notebook/TorrentToDrive.ipynb) is the easiest way to do Cloud Torrenting. Using [Google Colab](https://colab.research.google.com) and [LibTorrent](https://libtorrent.org/python_binding.html) Module, the script can be used to Download any Torrent in a Google Drive using Google Cloud Server. The files can be saved anywhere on Drive.
 
 ## Setup 
 
@@ -18,14 +18,17 @@
  - Change the Parameters (if required), note down the destination path.
  - Run the cells, Grab a Coffee.
  - The torrent file would be available in the Destination Path.
- - Voilà, File is available in the Drive.
+ - Voilà, File(s) is(are) in the Drive.
+ 
+## Contribute?
+- Go Through CONTRIBUTING.md
 
 ## Dependencies
  - python3-libtorrent
 
 ## Future Plans
 
- - More Disk Space (Using the Google Colab DIsk Storage) to bypass the storage limit of Google Drive
+ - More Disk Space (Using the Google Colab Disk Storage) to bypass the storage limit of Google Drive
  
 ## Screenshots
 
