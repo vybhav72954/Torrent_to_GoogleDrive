@@ -21,7 +21,7 @@
  - Voilà, File(s) is(are) in the Drive.
  
 ## Contribute?
-- Go Through CONTRIBUTING.md
+- Go Through [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Dependencies
  - python3-libtorrent
